@@ -3,6 +3,14 @@
 
 **TeleTube** Is simple telegram bot for downloading high quality videos from youtube
 
+## Preview
+
+![img](https://user-images.githubusercontent.com/98279182/170562848-84100eba-5f23-4b71-9316-2c43983ae253.png)
+![img](https://user-images.githubusercontent.com/98279182/170562931-bb5912e3-b2d3-4b98-b7a6-0594172e0032.png)
+![img](https://user-images.githubusercontent.com/98279182/170562981-2d800463-e9cd-4171-b00f-5c67fd697ee2.png)
+![img](https://user-images.githubusercontent.com/98279182/170562992-56df30cd-b994-47f8-81c8-8817ff907359.png)
+
+
 ## 📦 Installing
 #### 1. Install latest version of Python
 - Go to the [official Python website](https://www.python.org/downloads/)
